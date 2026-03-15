@@ -31,6 +31,7 @@ main {
 h1 {
     font-family: 'Fraunces', serif;
     color: var(--black);
+    font-size: 2.25rem;
 }
 
 p, span, a {
@@ -71,7 +72,7 @@ img {
 }
 
 .card-content {
-    padding: 2em;
+    padding: 2.25em;
 }
 
 .card-content p {
@@ -88,7 +89,7 @@ img {
 span.card-price-final {
     font-family: 'Fraunces', serif;
     color: var(--green-500);
-    font-size: 1.75rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 
@@ -126,7 +127,7 @@ span.card-price-original {
 
   .card-img-desktop {
     display: block;
-    min-height: 450px;
+    min-height: 480px;
   }
    .card {
     grid-template-columns: 1fr 1fr;
